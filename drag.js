@@ -1,2 +1,5 @@
 // JavaScript Document
-function drg(){}
+function drg(){
+	var a= 1
+	var b=2
+	}
